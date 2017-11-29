@@ -5,7 +5,7 @@ from bot.backend.queryhandler import QueryHandler
 
 from backend.bothandler import BotHandler
 
-token = '492742603:AAGc1IYKNKJFFA3WkQLdGFxFWBDBVXDSJwM'
+token = ''
 STAR_TOKEN = ['/s', '/search']
 MAIN_DIR = 'data/'
 MAX_QUERY_PER_MINUTE = 10
