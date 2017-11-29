@@ -1,7 +1,7 @@
 # Text-search-in-video
 Telegram bot based on neural network (VGG16, word2vec, CNN for matix)
 
-Done:
+# Done:
 -   dense network
 -   use pre-trained VGG16 and word2vec
 -   bot for demo
@@ -11,7 +11,7 @@ Done:
 -   training with COCO dataset
 -   smoothing search in video
 
-ToDo:
+# ToDo:
 -   DSSM
 -   deeper, deeper and deeper
 -   training embedding
@@ -19,6 +19,7 @@ ToDo:
 -   use state-of-the-art network
 -   make preprocessor faster
 
+## Result:
 ![1](https://github.com/josdas/Text-search-in-video/blob/master/screens/001.png)
 ![2](https://github.com/josdas/Text-search-in-video/blob/master/screens/002.png)
 ![3](https://github.com/josdas/Text-search-in-video/blob/master/screens/003.png)
