@@ -19,11 +19,6 @@ Telegram bot based on neural network (VGG16, word2vec, CNN for matix)
 -   use state-of-the-art network
 -   make preprocessor faster
 
-More: https://github.com/josdas/Text-search-in-video/blob/master/%D0%9D%D0%B0%D1%83%D0%BC%D0%BE%D0%B2%20%D0%A1%D1%82%D0%B0%D1%81.pdf
-## Result:
-![1](https://github.com/josdas/Text-search-in-video/blob/master/screens/001.png)
-![2](https://github.com/josdas/Text-search-in-video/blob/master/screens/002.png)
-![3](https://github.com/josdas/Text-search-in-video/blob/master/screens/003.png)
-![4](https://github.com/josdas/Text-search-in-video/blob/master/screens/004.png)
-![5](https://github.com/josdas/Text-search-in-video/blob/master/screens/005.png)
-![6](https://github.com/josdas/Text-search-in-video/blob/master/screens/006.png)
+# [More](https://github.com/josdas/Text-search-in-video/blob/master/%D0%9D%D0%B0%D1%83%D0%BC%D0%BE%D0%B2%20%D0%A1%D1%82%D0%B0%D1%81.pdf)
+
+# [Result](https://github.com/josdas/Text-search-in-video/blob/master/RESULTS.MD)
