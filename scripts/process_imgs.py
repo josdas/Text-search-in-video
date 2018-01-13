@@ -31,7 +31,7 @@ def files_process(names, dir_name, net_fun):
 
     def bucket_process():
         return {id: v
-                f   or id, v in zip(inds, imgs_process(bucket, net_fun))}
+                for id, v in zip(inds, imgs_process(bucket, net_fun))}
 
     for name in names:
         image = imageio.imread('{}/{}'.format(dir_name, name))

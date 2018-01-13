@@ -1,7 +1,7 @@
 import datetime
 
 import imageio
-from bot.backend.queryhandler import QueryHandler
+from backend.queryhandler import QueryHandler
 
 from backend.bothandler import BotHandler
 
