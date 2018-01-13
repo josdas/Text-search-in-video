@@ -3,3 +3,5 @@
 *.iml
 *.pyc
 *.pyc
+*.pyc
+net/zoo_new/__pycache__/model_net_2.cpython-36.pyc
